@@ -49,11 +49,11 @@ static NSString *kDeletePartialTitle = @"Delete (%d)";
     [self setRestorationIdentifier:@"list"];
     
     self.tableView.separatorColor = [UIColor clearColor];
-    backgroundImage = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"bg_wood.png"]];
+    backgroundImage = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"back-to-school-2.jpg"]];
     self.tableView.backgroundView = backgroundImage;
     self.navigationController.navigationBar.topItem.prompt = @"The STEM Education Group";
     self.navigationController.navigationBar.barStyle = UIBarStyleBlackTranslucent;
-    [self setTitle:@"Documents"];
+    [self setTitle:@"My Books"];
     loadFromSite = false;
     
     [self loadArray];
