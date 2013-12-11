@@ -153,7 +153,7 @@
     
     search = [[SearchType alloc]init];
     [search setEngineName:@"RefSeek"];
-    [search setSearchURL:@"http://www.refseek.com/search?q="];
+    [search setSearchURL:@"http://www.refseek.com/documents?q="];
     [search setSearchDescription:@"RefSeek"];
     [search setAdditionalSearchParameters:@""];
     [searchEngines addObject:search];
