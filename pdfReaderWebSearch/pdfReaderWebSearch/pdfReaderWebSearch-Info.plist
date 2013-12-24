@@ -27,8 +27,20 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>STEM-app-icon.png</string>
-				<string>STEM-app-icon-retina.png</string>
+				<string>stem-kids-app_icon.png</string>
+				<string>stem-kids-app_icon-retina.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>stem-kids-app_icon</string>
+				<string>stem-kids-app_icon.png</string>
+				<string>stem-kids-app_icon-retina.png</string>
 			</array>
 		</dict>
 	</dict>
@@ -48,6 +60,8 @@
 	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>UILaunchImageFile</key>
+	<string>introScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>MainStoryboard</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -61,7 +75,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-    <key>UILaunchImageFile</key>
-    <string>introScreen</string>
 </dict>
 </plist>

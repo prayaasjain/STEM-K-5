@@ -22,14 +22,14 @@
 		D835A02A185684F3004CD54C /* school-education.png in Resources */ = {isa = PBXBuildFile; fileRef = D835A029185684F3004CD54C /* school-education.png */; };
 		D835A02C185688EF004CD54C /* back-to-school-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D835A02B185688EF004CD54C /* back-to-school-2.jpg */; };
 		D871F34B17BD7A4000A41339 /* bg_wood.png in Resources */ = {isa = PBXBuildFile; fileRef = D871F34A17BD7A4000A41339 /* bg_wood.png */; };
-		D8A2308A17B573E80076300E /* STEM-app-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D8A2308917B573E80076300E /* STEM-app-icon.png */; };
-		D8A2308C17B573F80076300E /* STEM-app-icon-retina.png in Resources */ = {isa = PBXBuildFile; fileRef = D8A2308B17B573F80076300E /* STEM-app-icon-retina.png */; };
 		D8BFB89F180CACE0002DA2E0 /* PSPDFKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8BFB896180CACE0002DA2E0 /* PSPDFKit.framework */; };
 		D8BFB8A0180CACE0002DA2E0 /* PSPDFKit-Acknowledgements in Resources */ = {isa = PBXBuildFile; fileRef = D8BFB898180CACE0002DA2E0 /* PSPDFKit-Acknowledgements */; };
 		D8BFB8A1180CACE0002DA2E0 /* PSPDFKit-License in Resources */ = {isa = PBXBuildFile; fileRef = D8BFB899180CACE0002DA2E0 /* PSPDFKit-License */; };
 		D8BFB8A2180CACE0002DA2E0 /* PSPDFKit-License.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D8BFB89A180CACE0002DA2E0 /* PSPDFKit-License.pdf */; };
 		D8BFB8A4180CACE0002DA2E0 /* PSPDFKit-Version in Resources */ = {isa = PBXBuildFile; fileRef = D8BFB89C180CACE0002DA2E0 /* PSPDFKit-Version */; };
 		D8BFB8A5180CACE0002DA2E0 /* PSPDFKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D8BFB89D180CACE0002DA2E0 /* PSPDFKit.bundle */; };
+		D8C47265185FB72400FE6C1F /* stem-kids-app_icon-retina.png in Resources */ = {isa = PBXBuildFile; fileRef = D8C47263185FB72400FE6C1F /* stem-kids-app_icon-retina.png */; };
+		D8C47266185FB72400FE6C1F /* stem-kids-app_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D8C47264185FB72400FE6C1F /* stem-kids-app_icon.png */; };
 		D8D1F7941770D2840011A103 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8D1F7931770D2840011A103 /* UIKit.framework */; };
 		D8D1F7961770D2840011A103 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8D1F7951770D2840011A103 /* Foundation.framework */; };
 		D8D1F7981770D2840011A103 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8D1F7971770D2840011A103 /* CoreGraphics.framework */; };
@@ -44,6 +44,7 @@
 		D8D1F7B81770D7130011A103 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8D1F7B71770D7130011A103 /* WebViewController.m */; };
 		D8D1F7BD1772235B0011A103 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8D1F7BC1772235A0011A103 /* TableViewController.m */; };
 		D8D1F7C0177233DF0011A103 /* SearchType.m in Sources */ = {isa = PBXBuildFile; fileRef = D8D1F7BF177233DF0011A103 /* SearchType.m */; };
+		D8D281BE1862499600EF6185 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8D281BD1862499600EF6185 /* background.jpg */; };
 		D8D794F618356C2600EDF7B3 /* websearch.png in Resources */ = {isa = PBXBuildFile; fileRef = D8D794F418356C2600EDF7B3 /* websearch.png */; };
 		D8D794F718356C2600EDF7B3 /* websearch@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D8D794F518356C2600EDF7B3 /* websearch@2x.png */; };
 		D8D794FA1835A6F000EDF7B3 /* MyManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D8D794F91835A6EF00EDF7B3 /* MyManager.m */; };
@@ -68,8 +69,6 @@
 		D835A029185684F3004CD54C /* school-education.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "school-education.png"; sourceTree = "<group>"; };
 		D835A02B185688EF004CD54C /* back-to-school-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "back-to-school-2.jpg"; sourceTree = "<group>"; };
 		D871F34A17BD7A4000A41339 /* bg_wood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_wood.png; sourceTree = "<group>"; };
-		D8A2308917B573E80076300E /* STEM-app-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "STEM-app-icon.png"; sourceTree = "<group>"; };
-		D8A2308B17B573F80076300E /* STEM-app-icon-retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "STEM-app-icon-retina.png"; sourceTree = "<group>"; };
 		D8BFB896180CACE0002DA2E0 /* PSPDFKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PSPDFKit.framework; sourceTree = "<group>"; };
 		D8BFB898180CACE0002DA2E0 /* PSPDFKit-Acknowledgements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PSPDFKit-Acknowledgements"; sourceTree = "<group>"; };
 		D8BFB899180CACE0002DA2E0 /* PSPDFKit-License */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PSPDFKit-License"; sourceTree = "<group>"; };
@@ -78,6 +77,8 @@
 		D8BFB89C180CACE0002DA2E0 /* PSPDFKit-Version */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "PSPDFKit-Version"; sourceTree = "<group>"; };
 		D8BFB89D180CACE0002DA2E0 /* PSPDFKit.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PSPDFKit.bundle; sourceTree = "<group>"; };
 		D8BFB89E180CACE0002DA2E0 /* PSPDFKit.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = PSPDFKit.xcconfig; sourceTree = "<group>"; };
+		D8C47263185FB72400FE6C1F /* stem-kids-app_icon-retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stem-kids-app_icon-retina.png"; sourceTree = "<group>"; };
+		D8C47264185FB72400FE6C1F /* stem-kids-app_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stem-kids-app_icon.png"; sourceTree = "<group>"; };
 		D8D1F7901770D2840011A103 /* STEM Kids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "STEM Kids.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8D1F7931770D2840011A103 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D8D1F7951770D2840011A103 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -100,6 +101,7 @@
 		D8D1F7BC1772235A0011A103 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		D8D1F7BE177233DF0011A103 /* SearchType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchType.h; sourceTree = "<group>"; };
 		D8D1F7BF177233DF0011A103 /* SearchType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchType.m; sourceTree = "<group>"; };
+		D8D281BD1862499600EF6185 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 		D8D794F418356C2600EDF7B3 /* websearch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = websearch.png; sourceTree = "<group>"; };
 		D8D794F518356C2600EDF7B3 /* websearch@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "websearch@2x.png"; sourceTree = "<group>"; };
 		D8D794F81835A6EF00EDF7B3 /* MyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyManager.h; sourceTree = "<group>"; };
@@ -147,8 +149,8 @@
 		D8D1F7871770D2840011A103 = {
 			isa = PBXGroup;
 			children = (
-				D8A2308B17B573F80076300E /* STEM-app-icon-retina.png */,
-				D8A2308917B573E80076300E /* STEM-app-icon.png */,
+				D8C47263185FB72400FE6C1F /* stem-kids-app_icon-retina.png */,
+				D8C47264185FB72400FE6C1F /* stem-kids-app_icon.png */,
 				D8D1F7991770D2840011A103 /* pdfReaderWebSearch */,
 				D8D1F7921770D2840011A103 /* Frameworks */,
 				D8D1F7911770D2840011A103 /* Products */,
@@ -206,6 +208,7 @@
 			isa = PBXGroup;
 			children = (
 				D835A02B185688EF004CD54C /* back-to-school-2.jpg */,
+				D8D281BD1862499600EF6185 /* background.jpg */,
 				D835A029185684F3004CD54C /* school-education.png */,
 				D835A027185681B5004CD54C /* back-to-school.jpg */,
 				D835A02318565E3E004CD54C /* introScreen-Landscape.png */,
@@ -286,20 +289,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				D835A02A185684F3004CD54C /* school-education.png in Resources */,
+				D8D281BE1862499600EF6185 /* background.jpg in Resources */,
 				D8D1F79E1770D2850011A103 /* InfoPlist.strings in Resources */,
 				D8BFB8A2180CACE0002DA2E0 /* PSPDFKit-License.pdf in Resources */,
+				D8C47265185FB72400FE6C1F /* stem-kids-app_icon-retina.png in Resources */,
 				D8D1F7A61770D2850011A103 /* Default.png in Resources */,
 				D8D1F7A81770D2850011A103 /* Default@2x.png in Resources */,
 				D8D1F7AA1770D2850011A103 /* Default-568h@2x.png in Resources */,
 				D8D1F7AD1770D2850011A103 /* MainStoryboard.storyboard in Resources */,
 				00963C7117739DA40059C226 /* sample.pdf in Resources */,
 				D8BFB8A5180CACE0002DA2E0 /* PSPDFKit.bundle in Resources */,
-				D8A2308A17B573E80076300E /* STEM-app-icon.png in Resources */,
-				D8A2308C17B573F80076300E /* STEM-app-icon-retina.png in Resources */,
 				D871F34B17BD7A4000A41339 /* bg_wood.png in Resources */,
 				D835A028185681B5004CD54C /* back-to-school.jpg in Resources */,
 				D835A02618565E3E004CD54C /* introScreen-Portrait.png in Resources */,
 				D835A02C185688EF004CD54C /* back-to-school-2.jpg in Resources */,
+				D8C47266185FB72400FE6C1F /* stem-kids-app_icon.png in Resources */,
 				D8BFB8A1180CACE0002DA2E0 /* PSPDFKit-License in Resources */,
 				D809B99E17BEAB100011220B /* green-board.png in Resources */,
 				D8BFB8A4180CACE0002DA2E0 /* PSPDFKit-Version in Resources */,
